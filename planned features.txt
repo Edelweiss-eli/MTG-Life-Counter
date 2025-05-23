@@ -1,0 +1,28 @@
+HIGH PRIO
+MTG life counter obv,
+Commander dmg
+editable design
+Dice func
+easy partner button
+Player numbers
+Restart
+Timer
+Turn Count
+Life Calc
+
+MID PRIO
+poison dmg
+Monarch
+Initiative
+Planechase
+Day/Night
+Life loss history
+Help
+Storm Count
+
+LOW PRIO
+card checker?
+decklist???
+Floating mana
+Energy?
+Custom Gamemodes
